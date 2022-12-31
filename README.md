@@ -11,7 +11,7 @@ Creaiting an countdown this views as notification
 
 ## Installation
 
-```shell
+```shelll
 npm install -g android-countdown
 ```
 
