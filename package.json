@@ -1,7 +1,7 @@
 {
   "name": "android-countdown",
   "version": "1.0.1",
-  "description": "",
+  "description": "Creaiting an countdown this views as notification",
   "main": "lib/index.js",
   "type": "commonjs",
   "bin": {
