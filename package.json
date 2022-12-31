@@ -1,0 +1,35 @@
+{
+  "name": "android-countdown",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "type": "commonjs",
+  "bin": {
+    "android-countdown": "lib/index.js"
+  },
+  "scripts": {
+    "start": "/system/bin/node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Googlers-Repo/android-countdown.git"
+  },
+  "keywords": [
+    "magisk",
+    "android",
+    "shell",
+    "countdown"
+  ],
+  "author": "Der_Googler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Googlers-Repo/android-countdown/issues"
+  },
+  "homepage": "https://github.com/Googlers-Repo/android-countdown#readme",
+  "dependencies": {
+    "commander": "^9.4.1"
+  },
+  "os": [
+    "android"
+  ]
+}
