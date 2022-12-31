@@ -1,7 +1,7 @@
 [nodejs]: https://github.com/Magisk-Modules-Alt-Repo/node
 [foxmmm]: https://github.com/Fox2Code/FoxMagiskModuleManager
 
-<p  align="center"><img width="140" src="https://dergoogler.com/public/assets/raw/branch/master/android-countdown/countdown-cover.png"></p>
+<p align="center"><img width="140" src="https://dergoogler.com/public/assets/raw/branch/master/android-countdown/countdown-cover.png"></p>
 
 # Android Countdown
 
